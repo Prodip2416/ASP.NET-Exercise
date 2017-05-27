@@ -15,6 +15,9 @@
         <tr><td><b>Email:</b><asp:TextBox ID="txtEmail" runat="server"></asp:TextBox></td></tr>
         <tr><td>
             <asp:Button ID="Button1" runat="server" Text="Go To WebForm 2" Width="300px" OnClick="Button1_Click"/></td></tr>
+        <tr><td>
+            <asp:Label ID="lblMessage" runat="server" ForeColor="Red" Font-Bold="true"></asp:Label>
+            </td></tr>
     </table>
     </div>
     </form>
