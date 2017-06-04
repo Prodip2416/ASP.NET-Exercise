@@ -1,0 +1,9 @@
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\bin\Debug\WindowsEventViwer.exe.config
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\bin\Debug\WindowsEventViwer.exe
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\bin\Debug\WindowsEventViwer.pdb
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.Form1.resources
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.Properties.Resources.resources
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.csproj.GenerateResource.Cache
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.exe
+F:\Programming With DOT NET\ASP.NET Learning\ASP.NET\Part 72\WindowsEventViwer\WindowsEventViwer\obj\Debug\WindowsEventViwer.pdb
