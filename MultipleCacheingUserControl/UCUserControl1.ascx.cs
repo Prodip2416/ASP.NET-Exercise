@@ -14,16 +14,11 @@ namespace MultipleCacheingUserControl
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!IsPostBack)
-            {
-                GetProductByName(DropDownList1.SelectedValue);
-            }
-            Label1.Text = DateTime.Now.ToString();
-        }
+            //QueryString
+            //http://localhost:57917/WebForm1.aspx?ProductName=All
 
-        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            GetProductByName(DropDownList1.SelectedValue);
+            GetProductByName(Request.QueryString["productName"]);
+            Label1.Text = DateTime.Now.ToString();
         }
 
         private void GetProductByName(string ProductName)
