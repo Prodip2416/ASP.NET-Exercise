@@ -1,0 +1,14 @@
+1. make e font page only where data will be save
+2. take data form machine and store in a mysql database when worker will be first time register
+3. store intime and outtime when worker push finger in machine every day 
+
+
+note: worker will be classify by category(look like :- diying, administaion, etc)
+and in a time many worker can ascess(make sure every category worker can press finger in a time and store all every one data )
+
+
+
+*************************************************
+
+No need to create category table that i can create you just linke (like select option tage dropdown) it on your page
+you just create only one page where first time worker will register
