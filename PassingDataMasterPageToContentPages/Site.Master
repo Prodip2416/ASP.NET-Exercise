@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PassingDataMasterPageToContentPages.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="font-family: Arial">
+                <tr>
+                    <td colspan="2" style="width: 800px; height: 80px; text-align: center; background-color: #BDBDBD;">
+                        <h1>WebSite Header
+                        </h1>
+                        <asp:Panel ID="panelSearch" runat="server">
+                            <b>Search : </b>
+                            <asp:TextBox ID="txtSerach" runat="server"></asp:TextBox>
+                            &nbsp;<asp:Button ID="btnSearch" runat="server" Text="Search" />
+                        </asp:Panel>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td style="height: 500px; background-color: #D8D8D8; width: 150px">
+                        <h3>Menu</h3>
+                        <br />
+                        <br />
+                        <asp:TextBox ID="txtBoxMasterPage" runat="server"></asp:TextBox>
+                    </td>
+                    <td style="height: 500px; background-color: #E6E6E6; width: 650px">
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                            <b>some text</b>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="background-color: #BDBDBD; text-align: center">
+                        <b>Website Footer</b>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
