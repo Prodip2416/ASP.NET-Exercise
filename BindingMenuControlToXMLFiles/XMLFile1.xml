@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Items>
+  <MenuItem NavigateUrl="~/Home.aspx" Text="Home"/>
+  <MenuItem NavigateUrl="~/Employee.aspx" Text="Employee">
+    <MenuItem NavigateUrl="~/UploadResume.aspx" Text="Upload Resume"/>
+    <MenuItem NavigateUrl="~/EditResume.aspx" Text="Edit Resume"/>
+    <MenuItem NavigateUrl="~/ViewResume.aspx" Text="View Resume"/>
+  </MenuItem>
+  <MenuItem NavigateUrl="~/Employer.aspx" Text="Employer">
+    <MenuItem NavigateUrl="~/UploadJob.aspx" Text="Upload Job"/>
+    <MenuItem NavigateUrl="~/EditJob.aspx" Text="Edit Job"/>
+    <MenuItem NavigateUrl="~/ViewJob.aspx" Text="View Job"/>
+  </MenuItem>
+  <MenuItem NavigateUrl="~/Admin.aspx" Text="Admin">
+    <MenuItem NavigateUrl="~/AddUser.aspx" Text="Add User"/>
+    <MenuItem NavigateUrl="~/EditUser.aspx" Text="Edit User"/>
+    <MenuItem NavigateUrl="~/ViewUser.aspx" Text="View User"/>
+  </MenuItem>
+</Items>
