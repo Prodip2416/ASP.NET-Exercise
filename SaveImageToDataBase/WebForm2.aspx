@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <asp:Image ID="Image1" Height="500px" Width="500px" runat="server" />
     </div>
     </form>
 </body>
