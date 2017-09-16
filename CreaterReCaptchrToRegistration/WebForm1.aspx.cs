@@ -44,6 +44,11 @@ namespace CreaterReCaptchrToRegistration
                 lblMessage.Text = "Word verification failed";
             }
         }
+
+        protected void RecaptchaValidator_ServerValidate(object source, ServerValidateEventArgs args)
+        {
+            args.IsValid = this.recaptcha.IsValid;
+        }
     }
 
 }
