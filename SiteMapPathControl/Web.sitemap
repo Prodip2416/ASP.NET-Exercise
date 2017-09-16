@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode title="DummyRoot">
+    <siteMapNode url="~/Home.aspx" title="Home"/>
+    <siteMapNode url="~/Employee.aspx" title="Employee">
+      <siteMapNode url="~/UploadResume.aspx" title="Upload Resume"/>
+      <siteMapNode url="~/EditResume.aspx" title="Edit Resume"/>
+      <siteMapNode url="~/ViewResume.aspx" title="View Resume"/>
+    </siteMapNode>
+    <siteMapNode url="~/Employer.aspx" title="Employer">
+      <siteMapNode url="~/UploadJob.aspx" title="Upload Job"/>
+      <siteMapNode url="~/EditJob.aspx" title="Edit Job"/>
+      <siteMapNode url="~/ViewJob.aspx" title="View Job"/>
+    </siteMapNode>
+    <siteMapNode url="~/Admin.aspx" title="Admin">
+      <siteMapNode url="~/AddUser.aspx" title="Add User"/>
+      <siteMapNode url="~/EditUser.aspx" title="Edit User"/>
+      <siteMapNode url="~/ViewUser.aspx" title="View User"/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
