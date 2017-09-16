@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <TreeViewItem NavigateUrl="~/Home.aspx" Text="Home"/>
+  <TreeViewItem NavigateUrl="~/Employee.aspx" Text="Employee">
+    <TreeViewItem NavigateUrl="~/UploadResume.aspx" Text="Upload Resume"/>
+    <TreeViewItem NavigateUrl="~/EditResume.aspx" Text="Edit Resume"/>
+    <TreeViewItem NavigateUrl="~/ViewResume.aspx" Text="View Resume"/>
+  </TreeViewItem>
+  <TreeViewItem NavigateUrl="~/Employer.aspx" Text="Employer">
+    <TreeViewItem NavigateUrl="~/UploadJob.aspx" Text="Upload Job"/>
+    <TreeViewItem NavigateUrl="~/EditJob.aspx" Text="Edit Job"/>
+    <TreeViewItem NavigateUrl="~/ViewJob.aspx" Text="View Job"/>
+  </TreeViewItem>
+  <TreeViewItem NavigateUrl="~/Admin.aspx" Text="Admin">
+    <TreeViewItem NavigateUrl="~/AddUser.aspx" Text="Add User"/>
+    <TreeViewItem NavigateUrl="~/EditUser.aspx" Text="Edit User"/>
+    <TreeViewItem NavigateUrl="~/ViewUser.aspx" Text="View User"/>
+  </TreeViewItem>
+</Items>
