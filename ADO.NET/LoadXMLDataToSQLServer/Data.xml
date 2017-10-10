@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Department Id="1">
+    <Name>IT</Name>
+    <Location>New York</Location>
+  </Department>
+  <Department Id="2">
+    <Name>HR</Name>
+    <Location>London</Location>
+  </Department>
+  <Department Id="3">
+    <Name>Payroll</Name>
+    <Location>Mumbai</Location>
+  </Department>
+  <Employee Id="1">
+    <Name>Mark</Name>
+    <Gender>Male</Gender>
+    <DepartmentId>1</DepartmentId>
+  </Employee>
+  <Employee Id="2">
+    <Name>John</Name>
+    <Gender>Male</Gender>
+    <DepartmentId>1</DepartmentId>
+  </Employee>
+  <Employee Id="3">
+    <Name>Mary</Name>
+    <Gender>Female</Gender>
+    <DepartmentId>2</DepartmentId>
+  </Employee>
+  <Employee Id="4">
+    <Name>Steve</Name>
+    <Gender>Male</Gender>
+    <DepartmentId>2</DepartmentId>
+  </Employee>
+  <Employee Id="5">
+    <Name>Ben</Name>
+    <Gender>Male</Gender>
+    <DepartmentId>3</DepartmentId>
+  </Employee>
+</Data>
