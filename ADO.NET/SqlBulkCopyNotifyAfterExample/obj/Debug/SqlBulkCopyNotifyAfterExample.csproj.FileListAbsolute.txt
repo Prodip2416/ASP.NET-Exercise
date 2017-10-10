@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\bin\Debug\SqlBulkCopyNotifyAfterExample.exe.config
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\bin\Debug\SqlBulkCopyNotifyAfterExample.exe
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\bin\Debug\SqlBulkCopyNotifyAfterExample.pdb
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\obj\Debug\SqlBulkCopyNotifyAfterExample.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\obj\Debug\SqlBulkCopyNotifyAfterExample.exe
+F:\Programming With DOT NET\ASP.NET Learning\ADO.NET\Part 20\SqlBulkCopyNotifyAfterExample\SqlBulkCopyNotifyAfterExample\obj\Debug\SqlBulkCopyNotifyAfterExample.pdb
